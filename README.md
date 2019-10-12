@@ -1,2 +1,2 @@
 # Intiut-challenge
-My solution to Intiut's coding challenge. 
+My solution to Intiut's Treasure-Hunter coding challenge. 
